@@ -14,19 +14,19 @@ Rules :
 ## How to setup this project locally
 * Clone this repo in your machine
 * Install JRE
-<br>
+
     ```
     $ sudo apt install default-jre
     ```
 
 
 * Install JDK 
-<br>
+
     ```
    $ sudo apt install default-jdk
    ```
-<br>
-<br>
+
+
 
  * Use any code editor like eclipse, NetBeance for open this project
  * And Run 
@@ -34,13 +34,14 @@ Rules :
    </br> and enjoy the game 
 
 ## To Play Game
+
 * Download jre file from given link <br>
 https://drive.google.com/file/d/1PAj870BodIsL2-iTs91g6NOUBZlphXhq/view?usp=sharing
-<br>
+
 * for run this file java must present in your pc 
-<br>
-<br>
+
 ## Screenshots
+
 <img src="./Images/GameOn.png"> 
 <br>
 
