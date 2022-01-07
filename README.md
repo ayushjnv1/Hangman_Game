@@ -41,18 +41,18 @@ https://drive.google.com/file/d/1PAj870BodIsL2-iTs91g6NOUBZlphXhq/view?usp=shari
 <br>
 <br>
 ## Screenshots
-<img src="./images/GameOn.png"> 
+<img src="./Images/GameOn.png"> 
 <br>
 
-<img src="./images/Success_Attemp.png">
+<img src="./Images/Success_Attemp.png">
 <br>
-<img src="./images/Wrong_Attemp.png">
+<img src="./Images/Wrong_Attemp.png">
 <br>
-<img src="./images/Press_Same_Key_Again.png">
+<img src="./Images/Press_Same_Key_Again.png">
 <br>
-<img src="./images/Success_Attemp.png">
+<img src="./Images/Success_Attemp.png">
 <br>
-<img src="./images/Loss.png">
+<img src="./Images/Loss.png">
 
 
 
