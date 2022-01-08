@@ -35,7 +35,7 @@ Rules :
 
 ## To Play Game
 
-* Download jre file from given link <br>
+* Download JAR file from given link <br>
 https://drive.google.com/file/d/1PAj870BodIsL2-iTs91g6NOUBZlphXhq/view?usp=sharing
 
 * for run this file java must present in your pc 
